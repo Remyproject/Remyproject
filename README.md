@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Remilekun Folohunso</h1>
-<h3 align="center">A dedicated freelance Data Analyst passionate about unraveling the stories hidden within data. 📊 With a strong foundation in digital marketing, I possess extensive experience in transforming complex data into actionable insights. My expertise lies in data mining, machine learning, and predictive modeling. I excel in extracting valuable information from datasets and am proficient in SQL, Python, and Power BI. I'm recognized for my critical thinking, problem-solving skills, and the ability to communicate complex findings effectively. My skill set is well-rounded, encompassing digital marketing strategies.</h3>
+<h3 align="center">👋 I'm Remilekun Folohunso, a dedicated freelance Data Analyst passionate about unraveling the stories hidden within data. 📊 With a strong foundation in digital marketing, I possess extensive experience in transforming complex data into actionable insights. My expertise lies in data mining, machine learning, and predictive modeling. I excel in extracting valuable information from datasets and am proficient in SQL, Python, and Power BI. I'm recognized for my critical thinking, problem-solving skills, and the ability to communicate complex findings effectively. My skill set is well-rounded, encompassing digital marketing strategies.</h3>
 
 <img align="center" alt="Coding" width="400" src="https://www.edureka.co/blog/wp-content/uploads/2018/08/Insurance-Leadspace-Aniamted.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=remyproject&label=Profile%20views&color=0e75b6&style=flat" alt="remyproject" /> </p>
 
@@ -9,17 +10,23 @@
 
 <p align="left"> <a href="https://twitter.com/remifolohunso" target="blank"><img src="https://img.shields.io/twitter/follow/remifolohunso?logo=twitter&style=for-the-badge" alt="remifolohunso" /></a> </p>
 
-- 🔭 I’m currently working on **Sales Project**
+- 🔭 I’m currently working on [Sales Project](https://remifolohunsoportfolio.carrd.co/)
 
-- 👯 I’m looking to collaborate on **Data Analysis**
+- 🌱 I’m currently learning **R**
 
-- 🤝 I’m looking for help with **Internship or Entry Role**
+- 👯 I’m looking to collaborate on [Data Analysis](https://remifolohunsoportfolio.carrd.co/)
+
+- 🤝 I’m looking for help with [Internship or Entry Role](https://remifolohunsoportfolio.carrd.co/)
+
+- 👨‍💻 All of my projects are available at [https://remifolohunsoportfolio.carrd.co/](https://remifolohunsoportfolio.carrd.co/)
 
 - 📝 I regularly write articles on [https://remifolohunso.medium.com/](https://remifolohunso.medium.com/)
 
-- 💬 Ask me about **Power BI, SQL, AND EXCEL**
+- 💬 Ask me about **Power BI, SQL, AND EXCEL, POWERPOINT**
 
 - 📫 How to reach me **folohunsoremilekun@gmail.com**
+
+- 📄 Know about my experiences [file:///C:/Users/HP/Desktop/REMY%20FILE/REMILEKUN%20FOLOHUNSO%20U.%20C%20V.pdf](file:///C:/Users/HP/Desktop/REMY%20FILE/REMILEKUN%20FOLOHUNSO%20U.%20C%20V.pdf)
 
 - ⚡ Fun fact **I am Dedicated**
 
@@ -45,3 +52,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=remyproject&show_icons=true&locale=en" alt="remyproject" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=remyproject&" alt="remyproject" /></p>
+
+
+
