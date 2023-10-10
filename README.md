@@ -26,8 +26,8 @@
 
 - 📫 How to reach me **folohunsoremilekun@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/HP/Desktop/REMY%20FILE/REMILEKUN%20FOLOHUNSO%20U.%20C%20V.pdf](file:///C:/Users/HP/Desktop/REMY%20FILE/REMILEKUN%20FOLOHUNSO%20U.%20C%20V.pdf)
-
+- 📄 Know about my experiences **https://drive.google.com/file/d/1CNX-d1Td1_D-vYScAw1qnmIpRRLdu2tE/view?usp=sharing**
+  
 - ⚡ Fun fact **I am Dedicated**
 
 ### Blogs posts
