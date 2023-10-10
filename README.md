@@ -31,8 +31,8 @@
 - ⚡ Fun fact **I am Dedicated**
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- [BLOG-POST-LIST:START ](https://remifolohunso.medium.com/social-buzz-analysis-933d0f1e3f09)-->
+<!-- [BLOG-POST-LIST:END](https://remifolohunso.medium.com/gender-development-index-1990-2021-aacefc1ad149) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
