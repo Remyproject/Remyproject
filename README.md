@@ -10,15 +10,13 @@
 
 <p align="left"> <a href="https://twitter.com/remifolohunso" target="blank"><img src="https://img.shields.io/twitter/follow/remifolohunso?logo=twitter&style=for-the-badge" alt="remifolohunso" /></a> </p>
 
-- 🔭 I’m currently working on [Sales Project](https://remifolohunsoportfolio.carrd.co/)
-
-- 🌱 I’m currently learning **R**
+- 🔭 I’m currently working on [Sales Project](https://app.mavenanalytics.io/portfolio)
+  
+- 🌱 I’m currently learning **Data Enginering**
 
 - 👯 I’m looking to collaborate on [Data Analysis](https://remifolohunsoportfolio.carrd.co/)
 
-- 🤝 I’m looking for help with [Internship or Entry Role](https://remifolohunsoportfolio.carrd.co/)
-
-- 👨‍💻 All of my projects are available at [https://remifolohunsoportfolio.carrd.co/](https://remifolohunsoportfolio.carrd.co/)
+- 👨‍💻 All of my projects are available at [https://app.mavenanalytics.io/portfolio)](https://app.mavenanalytics.io/portfolio)
 
 - 📝 I regularly write articles on [https://remifolohunso.medium.com/](https://remifolohunso.medium.com/)
 
