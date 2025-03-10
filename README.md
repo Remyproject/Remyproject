@@ -1,24 +1,29 @@
 <h1 align="center">Hi 👋, I'm Remilekun Folohunso</h1>
-<h3 align="center">👋 Hi there! 👋 I’m Remilekun, a Data Analyst and Database Manager passionate about turning raw data into actionable insights. I specialize in solving real-world problems by designing efficient data pipelines, creating intuitive dashboards, and empowering teams to make data-driven decisions.
+<h3 align="Left">👋About Me 👋
+Hi there! I’m Remilekun Folohunso, a Data Analyst and Database Manager passionate about turning raw data into actionable insights. I specialize in solving real-world problems by designing efficient data pipelines, creating intuitive dashboards, and empowering teams to make data-driven decisions.</h3>
 
-What I Do
-Data Warehousing: Built a Bronze-Silver-Gold architecture to transform messy data into clean, analytics-ready datasets. This streamlined reporting and reduced manual effort for clients.
+<h4 align="Left"> What I Do </h4>
 
-ETL Processes: Developed end-to-end workflows to extract, clean, and load data, ensuring accuracy and reliability.
+-  Data Warehousing: Built a Bronze-Silver-Gold architecture to transform messy data into clean, analytics-ready datasets. This streamlined reporting and reduced manual effort for clients.
 
-Data Visualization: Created interactive dashboards in Power BI and Excel that helped stakeholders uncover trends and make faster decisions.
+-  ETL Processes: Developed end-to-end workflows to extract, clean, and load data, ensuring accuracy and reliability.
 
-Problem Solving: Identified and resolved discrepancies worth N340 million in financial data, improving compliance and system reliability.
+-  Data Visualization: Created interactive dashboards in Power BI and Excel that helped stakeholders uncover trends and make faster decisions.
 
-Teaching & Mentorship: Trained over 200 students in data analytics, helping them build practical skills and complete real-world projects.
+-  Problem Solving: Identified and resolved discrepancies worth N340 million in financial data, improving compliance and system reliability.
 
-Why It Matters
+-  Teaching & Mentorship: Trained over 200 students in data analytics, helping them build practical skills and complete real-world projects.
+
+<h4 align="Left"> Why It Matters </h4>
+
 Data isn’t just numbers—it’s the foundation of smart decisions. Whether it’s optimizing marketing campaigns, improving system security, or enabling data-driven strategies, I focus on delivering solutions that make a tangible impact.
 
 Let’s Connect!
-I’m always excited to collaborate on data projects, share insights, or discuss how we can solve problems together. Feel free to explore my repositories, and don’t hesitate to reach out!</h3>
+I’m always excited to collaborate on data projects, share insights, or discuss how we can solve problems together. Feel free to explore my repositories, and don’t hesitate to reach out!
 
-<img align="center" alt="Coding" width="400" src="https://www.edureka.co/blog/wp-content/uploads/2018/08/Insurance-Leadspace-Aniamted.gif">
+📧 Email: folohunsoremilekun@gmail.com 
+
+Let’s turn data into gold! 🚀
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=remyproject&label=Profile%20views&color=0e75b6&style=flat" alt="remyproject" /> </p>
@@ -27,23 +32,6 @@ I’m always excited to collaborate on data projects, share insights, or discuss
 
 <p align="left"> <a href="https://twitter.com/remifolohunso" target="blank"><img src="https://img.shields.io/twitter/follow/remifolohunso?logo=twitter&style=for-the-badge" alt="remifolohunso" /></a> </p>
 
-- 🔭 I’m currently working on [Sales Project](https://app.mavenanalytics.io/portfolio)
-  
-- 🌱 I’m currently learning **Data Enginering**
-
-- 👯 I’m looking to collaborate on [Data Analysis](https://remifolohunsoportfolio.carrd.co/)
-
-- 👨‍💻 All of my projects are available at [https://app.mavenanalytics.io/portfolio)](https://app.mavenanalytics.io/portfolio)
-
-- 📝 I regularly write articles on [https://remifolohunso.medium.com/](https://remifolohunso.medium.com/)
-
-- 💬 Ask me about **Power BI, SQL, AND EXCEL, POWERPOINT**
-
-- 📫 How to reach me **folohunsoremilekun@gmail.com**
-
-- 📄 Know about my experiences **https://drive.google.com/file/d/1CNX-d1Td1_D-vYScAw1qnmIpRRLdu2tE/view?usp=sharing**
-  
-- ⚡ Fun fact **I am Dedicated**
 
 ### Blogs posts
 <!-- [BLOG-POST-LIST:START ](https://remifolohunso.medium.com/social-buzz-analysis-933d0f1e3f09)-->
