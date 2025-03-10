@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Remilekun Folohunso</h1>
-<h3 align="Left">👋About Me 👋
-Hi there! I’m Remilekun Folohunso, a Data Analyst and Database Manager passionate about turning raw data into actionable insights. I specialize in solving real-world problems by designing efficient data pipelines, creating intuitive dashboards, and empowering teams to make data-driven decisions.</h3>
+<h3 align="Left">👋Hi there! I’m Remilekun Folohunso, a Data Analyst and Database Manager passionate about turning raw data into actionable insights. I specialize in solving real-world problems by designing efficient data pipelines, creating intuitive dashboards, and empowering teams to make data-driven decisions.</h3>
 
 <h4 align="Left"> What I Do </h4>
 
